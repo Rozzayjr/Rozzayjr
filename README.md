@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rozzayjr
 - 👀 I’m interested in ...coding and sport
-- 🌱 I’m currently learning ...wem development
+- 🌱 I’m currently learning ...web development
 - 💞️ I’m looking to collaborate on ...web development
 - 📫 How to reach me ...+2349050814353
 - 😄 Pronouns: ...
